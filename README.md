@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Everest, aka @TheEverWeird
 - 👀 I’m interested in gaming, tech, and musicals!
 - 🌱 I’m currently trying to learn Python and CSS
-- 📫 If you want to talk to me, DM me on Bsky, I'm @TheEverWeird over there!
+- 📫 If you want to talk to me, DM me on BlueSky, I'm @TheEverWeird over there!
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I was top in my class for digital technologies!
